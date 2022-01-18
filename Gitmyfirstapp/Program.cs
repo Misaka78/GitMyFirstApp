@@ -11,8 +11,6 @@ namespace Gitmyfirstapp
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World");
-           // int c = Add(2,8);
-            Console.WriteLine(Add(2,8));
             Console.ReadKey();
         }
 
